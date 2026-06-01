@@ -136,7 +136,7 @@ export function pushPurchase(
       em: "jsmith@example.com",
       fn: "john",
       ln: "smith",
-      ph: "16505554444",
+      ph: "+16505554444",
       external_id: "user_abc123",
       ge: "m",
       db: "19910526",
